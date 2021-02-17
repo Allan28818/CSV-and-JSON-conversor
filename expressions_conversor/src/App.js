@@ -1,7 +1,9 @@
+import Index from "./pages";
+
 function App() {
   return (
     <div className="App">
-      Allan
+      <Index />
     </div>
   );
 }
