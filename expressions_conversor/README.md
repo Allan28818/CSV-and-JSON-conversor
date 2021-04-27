@@ -7,10 +7,10 @@ alt = "logo"
 >
 
 ## Índice
-- [Sobre](#-sobre)
-- [CSV to JSON](#-csv-to-json)
-- [JSON to CSV](#-json-to-csv)
-- [Download do projeto](#-como-fazer-o-download-do-projeto)
+- [Sobre](#sobre)
+- [CSV to JSON](#csv-to-json)
+- [JSON to CSV](#json-to-csv)
+- [Download do projeto](#como-fazer-o-download-do-projeto)
 ---
 ## Sobre
 
